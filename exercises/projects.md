@@ -6,7 +6,8 @@ For this exercise, we'd like you to explore some sample projects from the last f
 - Check out the links below and visit at least one project in each category.
 - Watch the Projects Overview Video also linked to from the first week's myCourses content area.
 
-### Category 1: Portfolios (We will start ours for Project 1 and finish them later in the semester)
+### Category 1: One-Page Websites (mostly) - These are all portfolios, but NEW THIS SEMESTER, creating a portfolio is no longer a requirement for this project.  
+- Additionally, you'll be expected to duplicate an existing design as your starting point for this Project.  So while these projects do contain some interesting ideas, the first Project will be somewhat different.
 
 #### Recent Portfolios - Please note: Do not share.  They are not necessarily complete yet.
 - https://people.rit.edu/bjc8253/235/project1/
@@ -134,13 +135,13 @@ For this exercise, we'd like you to explore some sample projects from the last f
 - Memento Mori - https://people.rit.edu/qms6350/235/project3/
 - Neptune - https://people.rit.edu/pd5129/235/project3/
 - Build-a-Zombie - https://people.rit.edu/omw1772/235/project3/
-- https://people.rit.edu/lr4631/235/project3/
-- https://people.rit.edu/fa4931/235/project3/
-- https://people.rit.edu/fgw7468/235/project3/
-- https://people.rit.edu/cjm6497/235/project3/
-- https://people.rit.edu/cre3363/235/project3/
-- https://people.rit.edu/ajc3147/235/project3/
-- https://people.rit.edu/aad9296/boy-and-maus/
+- Luck of the Draw - https://people.rit.edu/lr4631/235/project3/
+- Prichi - https://people.rit.edu/fa4931/235/project3/
+- Bubble Mail - https://people.rit.edu/fgw7468/235/project3/
+- Survive the Couch - https://people.rit.edu/cjm6497/235/project3/
+- Zero-Day Threat - https://people.rit.edu/cre3363/235/project3/
+- Untitled Fish Game - https://people.rit.edu/ajc3147/235/project3/
+- A Boy and His M.A.U.S. - https://people.rit.edu/aad9296/boy-and-maus/
 
 #### Recent Games - Spring 2021
 - Survive - https://people.rit.edu/ng8975/235/project3/ (Pixi Game)
