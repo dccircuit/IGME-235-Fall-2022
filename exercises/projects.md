@@ -119,21 +119,21 @@ For this exercise, we'd like you to explore some sample projects from the last f
 
 ### Category 3: Web-based Games or Experiences (Ignore project numbers in the URLs -- it has had different numbers in the past - it will be our Project 3 and won't have the extensive connected website that you may notice in some of these )
 
-#### Unchecked but High Scoring Project 3s - Fall 2022
-- https://people.rit.edu/ejf6912/235/project3/game.html
-- https://people.rit.edu/blg9406/235/project3/game.html
-- https://people.rit.edu/jhw5517/235/FallingSky/
-- https://people.rit.edu/jpd2690/235/project3/project3.html
-- https://people.rit.edu/ajb8344/235/Match_Rush/
-- https://people.rit.edu/tmg7946/235/project3/
-- https://people.rit.edu/tc3672/235/project3/game/game.html
-- https://people.rit.edu/tab9663/235/P3new/index.html
-- https://people.rit.edu/sam1932/235/project3/game.html
-- https://people.rit.edu/scc8371/235/project3/
-- https://people.rit.edu/rdv3615/235/project3/
-- https://people.rit.edu/qms6350/235/project3/
-- https://people.rit.edu/pd5129/235/project3/
-- https://people.rit.edu/omw1772/235/project3/
+#### Unchecked but High Scoring Project 3s - Fall 2021
+- Cheese Master - https://people.rit.edu/ejf6912/235/project3/game.html
+- Rebound - https://people.rit.edu/blg9406/235/project3/game.html
+- Falling Sky - https://people.rit.edu/jhw5517/235/FallingSky/
+- Greg Saves the World - https://people.rit.edu/jpd2690/235/project3/project3.html
+- Match Rush - https://people.rit.edu/ajb8344/235/Match_Rush/
+- Corrupted Conundrum - https://people.rit.edu/tmg7946/235/project3/
+- Iron Cog - https://people.rit.edu/tc3672/235/project3/game/game.html
+- Whack-A-Goomba - https://people.rit.edu/tab9663/235/P3new/index.html
+- Survive the Hoard - https://people.rit.edu/sam1932/235/project3/game.html
+- Bottle Knights - https://people.rit.edu/scc8371/235/project3/
+- Rocket Runner - https://people.rit.edu/rdv3615/235/project3/
+- Memento Mori - https://people.rit.edu/qms6350/235/project3/
+- Neptune - https://people.rit.edu/pd5129/235/project3/
+- Build-a-Zombie - https://people.rit.edu/omw1772/235/project3/
 - https://people.rit.edu/lr4631/235/project3/
 - https://people.rit.edu/fa4931/235/project3/
 - https://people.rit.edu/fgw7468/235/project3/
