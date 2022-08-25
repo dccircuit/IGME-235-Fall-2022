@@ -1,12 +1,12 @@
 # Exercise: Initial Markup 
 
-This is a Lab Exercise.  You should try to complete all of the steps of this exercise rather quickly. Each week, we will ask you to submit the work that you have done so far on this HTML Lab Series (There are a total of 12 small exercises that build on each other) to the myCourses dropbox.  In addition, you will have an individual homework assignment that is very similar that will be due soon (see the Checklists and the Assignments section in myCourses).
+This is a Lab Exercise.  You should try to complete all of the steps of this exercise rather quickly. Each week (if in an online section), we will ask you to submit the work that you have done so far on this HTML Lab Series (There are a total of 12 small exercises that build on each other) to the myCourses dropbox.  If in-person, you'll only need to make one submission at the end of the 12 exercises.  In addition, you will have an individual homework assignment that is very similar that will be due soon (see the Checklists and the Assignments section in myCourses).
 
 Below are some general steps that you should follow, but they are not exact.  Use your knowledge from the reading and Review Videos to achieve the goals below.
 
-**If you are in the In-Person lab**, please ask your instructor for help if you get stuck (or if you discover something interesting that you might want to share with the rest of the class).  You can do so by clicking the Life Preserver icon in the top right of your screen.  The instructor will join you by screen share and chat! (You could also look in the #questions-html-css channel on Slack, but hey, the Prof is right there.  Let him help!  He's probably bored!)
+**If you are in the In-Person lab**, please ask your instructor or teaching assistant for help if you get stuck (or if you discover something interesting that you might want to share with the rest of the class).  You could also look in the #questions-html-css channel on Slack, but hey, the Prof amd TA are right there.  Let them help!  They're probably bored!
 
-**If you are Online/Flex**, please ask any questions in the #questions-html-css channel on Slack.  Feel free to browse other questions to see if your question may have already been helped, though.
+**If you are Online**, please ask any questions in the #questions-html-css channel on Slack.  Feel free to browse other questions to see if your question may have already been helped, though.
 
 ## Do the following:
 1. Create a new folder called **game** (on your PC)
