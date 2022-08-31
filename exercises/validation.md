@@ -3,7 +3,7 @@
 Same as previous exercises:  Figure out how to meet provided goals.  Ask for help if needed.  Let us know if you run into an interesting validation error.
 
 ## Do the following:
-1. Visit http://html5.validator.nu
+1. Visit http://validator.nu
 2. Validate your "Dig Dug" page by URL, Upload, or Copy/Paste.
 3. Correct any errors.
 
