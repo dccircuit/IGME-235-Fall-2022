@@ -17,6 +17,26 @@ For this project, you will select an appropriate topic (a list is below) and cre
 - The page must be responsive to mobile widths with a layout that changes (not just stretches/squishes) between desktop and mobile.  It must also not get overly wide (set a maximum width as well). 
 - It must use Flexbox and/or CSS Grid for layout purposes.  No usage of CSS Frameworks for this project.
   - It would be acceptable to use a simple CSS reset file, but not Marx or other (although simple) frameworks.
+- Files will be stored in a pre-defined file structure:
+
+Here is an illustration of the file structure you should use:
+![Project 1 File Structure](_images/Project1Structure2019-235.png "Project 1 File Structure")  
+```
+	project1
+		index.html (where the final version of your project 1 will live)
+		spec.html (your phase 1 will be at this location and should not be changed after submission)
+		css (probably only two files here, one for phase 1, one for phase 2)
+			spec.css
+			final.css
+		media (all images, videos, fonts, etc present on your pages, including favicons if you make a custom one)
+			image1.jpg
+			image2.jpg
+			any files (convert to woff/woff2) that support the embedded fonts (if any) on your pages.
+		other.html (any other html pages... perhaps a few extra pages that give you "read more" info about a subject)
+		src (for files that support your design but aren't actually referenced from the final version)
+			source.pdf
+			responsive.pdf
+```
 
 ### FINAL Design Expectations:
 - Your page must ultimately have a pleasing layout and design that demonstrates:
@@ -25,6 +45,7 @@ For this project, you will select an appropriate topic (a list is below) and cre
   - Thoughtful choices of colors and other visual elements.
   - Effective typography with typefaces that are clear, legible, and appropriate for the content.
   - An appropriate custom link style (visible somewhere on the page -- put a small link in the footer if you don't have another place to use it)
+- The user visiting your page should experience a compelling initial "landing" that pulls them in and orients them to where they are and where they can go.
 
 ### FINAL Content Requirements
 - Include multiple images of at least two different sizes.  They should be relevant to the chosen topic, of course.
@@ -32,70 +53,59 @@ For this project, you will select an appropriate topic (a list is below) and cre
 - All text must be added as actual text characters in the HTML, no adding text to an image with Photoshop.
 - Your final design must "adapt" to accomodate as much information as necessary to fully cover your subject (see more in the "Phase 2" expectations).
 
-
 ## About the Two Separate Parts/Phases
 
 ### What's required for Part 1 (the "build to spec" phase)
 
 Web developers commonly work in a team with others such as Content Strategists, User Experience designers, and Graphic Artists.  For the first phase of this project, we will simulate that by asking you to recreate a design that some other Graphic Artist has already created and "published" in print.  It's not always true that a printed design can be fully reproduced on the web, especially when you start to take varying browser and device sizes into account.  But for this first phase of the Project, you should aim to get as close to the printed design as you possibly can, while still thinking about how your page will need to adapt in the 2nd phase to add responsiveness and greater page length as you pour your own content into it.
 
-For Phase 1:
+#### What to do:
 1. Select one of these pre-chosen page layouts:
-- 1
-- 2
-- 3
-- 4
-- or submit your own pdf as part of your proposal (See tips below about what's "challenging" enough).
+	- 1
+	- 2
+	- 3
+	- 4
+	- or submit your own pdf as part of your proposal (See tips below about what's "challenging" enough).
 1. Mirror (as closely as possible) the design of your chosen design/PDF through HTML & CSS.
-  1. Start by sketching (perhaps by drawing right over your starting image) where your grid lines are going to go.
-  1. Build HTML that will work well with your sketched out plan... Add special sections, divs, figures, etc.  Whatever you need.  Think semantically as often as possible.  Include ids and classes that will work well with the style rules you need to write.
-    - Don't copy the body text word for word, use "lorem ipsum" text where you have blocks of words to fill in. 
-  1. Write the CSS (including, early on, the Grids and Flexbox containers that you'll need).  Make sure to get sizes on your images quickly, too.
-    - You don't need to use the exact images from your design, but similar ones would be best.  Do your best to select a similar font, color scheme, and matching layout.
+	1. Start by sketching (perhaps by drawing right over your starting image) where your grid lines are going to go.
+	1. Build an HTML file (call it spec.html) that will work well with your sketched out plan... Add special sections, divs, figures, etc.  Whatever you need.  Think semantically as often as possible.  Include ids and classes that will work well with the style rules you need to write.
+    	- Don't copy the body text word for word, use "lorem ipsum" text where you have blocks of words to fill in. 
+  	1. Write the CSS (including, early on, the Grids and Flexbox containers that you'll need).  Make sure to get sizes on your images quickly, too.
+    	- You don't need to use the exact images from your design, but similar ones would be best.  Do your best to select a similar font, color scheme, and matching layout.
+1. Determine (how your page should adapt to narrower layouts). 
+	- Sketch a plan for what will go where when the page is narrower.  This can be mocked up in an image editor or drawn on paper and photographed with a cell phone.  You'll include this along with your zipped up files and link to your spec.html file in your project1 directory.
+	- Optionally, you can begin to implement a mobile version of your spec at this stage.  We will primarily care about the wider layout at this time, however.
+1. Submit everything to the assignment dropbox:
+	- A zip of all of your project 1 files (including all resources and reference images).
+	- A direct link to your "source" PDF that you've put into your project 1 directory on banjo (so that we can compare before and after).
+	- A direct link to your "spec.html" page. (once submitted, you should make no further changes to the spec.html or the CSS that styles it -- we will want to compare it to your FINAL project 1 page.)
+	- An image of your sketched plan for how to add responsiveness to your page.
 
 
 #### What's Challenging Enough for a Phase 1 layout?
-- Has a 1 or 2 column layout that makes some sense for web page design.  (typical multicolumn newpaper layout does not, unless each column starts something new, not a continuation of a long article over multiple columns). 
-- Should have potential to be made "responsive"... Plan out in a sketch what will go where when the page gets narrower... All content should still be present, but incidental images may disappear or resize, order of information may change, etc.
+- The design should have a 1 or 2 column layout that makes some sense for web page design.  (typical multicolumn newpaper layouts do not, unless each column starts something new and are not just a continuation of a long article over multiple columns). 
+- Should have potential to be made "responsive"... You'll plan out in a sketch what will go where when the page gets narrower... All content should still be present, but incidental images may disappear or resize, order of information may change, etc.
 	- Consider how the design will "lengthen" as the page becomes taller with more content/articles/sections.
 
 ### What's required for Part 2 (the "adapt to content" phase)
-- For Phase 1 it must mirror (as closely as possible) the design exemplified by one of the provide pdf files (or, optionally, a PDF file provided at time of proposal).
-- For Phase 2, your design can be adjusted with new images, colors, and appropriate layout modifications/additions to work well with your chosen content.
-	- All files must be in the defined file structure:
-	
 
+For Phase 2, you'll copy your spec.html file to index.html and make changes as appropriate with new text content, images, colors, and appropriate layout modifications/additions to work well with your chosen content.
 
-
- 
+1. You've already thought about the responsive part and submitted a plan with Part 1
+	- Use Media Queries to enable and disable CSS as appropriate to make the page adjust it's layout at different sizes.
+	- An excellent project will look good any any width from "desktop wide" to "mobile narrow", but we're mostly interested that a version at mobile phone width still works well and provides all content that a desktop version has.
 	- Consider how the design will "lengthen" as the page becomes taller with more content/articles/sections.
+2. Put your own content into the design.
+3. Make sure that the initial design 
 	
 
 
-Phase 1
-
-	Design to Spec
-	Either implement or at least have a sketch of how the responsive design will work.
-		- Maybe require a rudimentary mobile friendly layout?
-	
-Phase 2
-
-	Customized with new Content
-	Have a compelling initial "landing" that pulls the user in.
-	Must be fully responsive at ALL widths.
-	
-
-At the end of the semester?
-	Interactivity?
-	You may move/update/publish the finished site however you want.
 
 
 
 
 
 ## Overall Requirements
-Here is an illustration of the file structure you should use:
-![Project 1 File Structure](_images/Project1Structure2019-235.png "Project 1 File Structure")  
 
 
 Your main page for the site that you create will be the index page for this directory. You must have css and media directories to store the associated files. **Remember:** Our server is case sensitive, so your files **must** use the case indicated in this assignment. If your files are not named and located as instructed, we can't find them, and you will get a 0.
