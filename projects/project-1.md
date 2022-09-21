@@ -46,7 +46,7 @@ Here is an illustration of the file structure you should use:
 
 ### FINAL Design Expectations:
 - Your page must ultimately have a pleasing layout and design that demonstrates:
-  - All four so-called "CRAP" principles.
+  - All four so-called ["CRAP" principles](https://learning.oreilly.com/library/view/the-non-designers-design/9780321563088/ch01.html#ch01lev1sec1).
   - Clear visual hierarchy, good use of white space.
   - Thoughtful choices of colors and other visual elements.
   - Effective typography with typefaces that are clear, legible, and appropriate for the content.
