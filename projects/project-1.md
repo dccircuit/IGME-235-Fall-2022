@@ -68,7 +68,9 @@ Web developers commonly work in a team with others such as Content Strategists, 
 #### What to do:
 1. Select one of these pre-chosen page layouts:  
 <a href="_images/subaru.pdf"><img width="20%" alt="Subaru Drive Magazine Page" src="_images/subaru.png"></a> <a href="_images/aliens.pdf"><img width="20%" alt="Conspiracy Book Page" src="_images/aliens.png"></a> <a href="_images/athletics.pdf"><img width="20%" alt="RIT Magazine Page" src="_images/athletics.png"></a> <a href="_images/intel.pdf"><img width="20%" alt="Intel Poster (Challenging!)" src="_images/intel.png"></a>
-	- or submit your own pdf as part of your proposal (See tips below about what's "challenging" enough).
+	- Each of the above images is a link to a pdf version of the layout.  You can go ahead, download this pdf and edit it as necessary to indicate your layout plans (see below) -- also, include this pdf in your src subfolder & include it as a link in your doc.html
+	- You're also welcome to submit your *own* pdf as part of your proposal (See [tips below about what's "challenging" enough](#whats-challenging-enough-for-a-phase-1-layout)).
+	- A Slack Channel specifically for extra Project 1 questions & guidance (and maybe some additional "pre-chosen" layouts) can be found in the course Slack workspace. Look for the channel named #project-1
 1. Mirror (as closely as possible) the design of your chosen design/PDF through HTML & CSS.
 	1. Start by sketching (perhaps by drawing right over your starting image) where your grid lines are going to go.  If you can, save this sketch and include it in your documentation.
 	1. Build an HTML file (call it spec.html) that will work well with your sketched out plan... Add special sections, divs, figures, etc.  Whatever you need.  Think semantically as often as possible.  Include ids and classes that will work well with the style rules you need to write.
@@ -86,6 +88,7 @@ Web developers commonly work in a team with others such as Content Strategists, 
 	- A direct link to your "doc.html" page which must (among other things) include the image of your sketched plan for how to add responsiveness to your page.
 
 #### What's Challenging Enough for a Phase 1 layout?
+- It should be from a print-based source (exceptions at the discretion of your instructor).  No existing HTML version should already exist. It should not be a PDF screenshot of an existing web page (unless, again, at the discretion of your instructor)
 - The design should have a 1 or 2 column layout that makes some sense for web page design.  (typical multicolumn newpaper layouts do not, unless each column starts something new and are not just a continuation of a long article over multiple columns). 
 - Should include images in the layout in at least 2 different sizes.  The images ideally would have some kind of additional 'feature' such as overlapping text, other graphic elements behind or overlapping, drop shadows, rotation, text that flows around, etc.
 - Typography in several styles.  Headings (perhaps in a different font), section headings, line-spacing changes, different colors and backgrounds, are all nice features to try to emulate.
