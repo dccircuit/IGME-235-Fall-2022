@@ -66,11 +66,8 @@ Here is an illustration of the file structure you should use:
 Web developers commonly work in a team with others such as Content Strategists, User Experience designers, and Graphic Artists.  For the first phase of this project, we will simulate that by asking you to recreate a design that some other Graphic Artist has already created and "published" in print.  It's not always true that a printed design can be fully reproduced on the web, especially when you start to take varying browser and device sizes into account.  But for this first phase of the Project, you should aim to get as close to the printed design as you possibly can, while still thinking about how your page will need to adapt in the 2nd phase to add responsiveness and greater page length as you pour your own content into it.
 
 #### What to do:
-1. Select one of these pre-chosen page layouts:
-	- 1
-	- 2
-	- 3
-	- 4
+1. Select one of these pre-chosen page layouts:  
+<a href="_images/subaru.pdf"><img width="20%" alt="Subaru Drive Magazine Page" src="_images/subaru.png"></a> <a href="_images/aliens.pdf"><img width="20%" alt="Conspiracy Book Page" src="_images/aliens.png"></a> <a href="_images/athletics.pdf"><img width="20%" alt="RIT Magazine Page" src="_images/athletics.png"></a> <a href="_images/intel.pdf"><img width="20%" alt="Intel Poster (Challenging!)" src="_images/intel.png"></a>
 	- or submit your own pdf as part of your proposal (See tips below about what's "challenging" enough).
 1. Mirror (as closely as possible) the design of your chosen design/PDF through HTML & CSS.
 	1. Start by sketching (perhaps by drawing right over your starting image) where your grid lines are going to go.  If you can, save this sketch and include it in your documentation.
@@ -90,6 +87,8 @@ Web developers commonly work in a team with others such as Content Strategists, 
 
 #### What's Challenging Enough for a Phase 1 layout?
 - The design should have a 1 or 2 column layout that makes some sense for web page design.  (typical multicolumn newpaper layouts do not, unless each column starts something new and are not just a continuation of a long article over multiple columns). 
+- Should include images in the layout in at least 2 different sizes.  The images ideally would have some kind of additional 'feature' such as overlapping text, other graphic elements behind or overlapping, drop shadows, rotation, text that flows around, etc.
+- Typography in several styles.  Headings (perhaps in a different font), section headings, line-spacing changes, different colors and backgrounds, are all nice features to try to emulate.
 - Should have potential to be made "responsive"... You'll plan out in a sketch what will go where when the page gets narrower... All content should still be present, but incidental images may disappear or resize, order of information may change, etc.
 	- Consider how the design will "lengthen" as the page becomes taller with more content/articles/sections.
 
