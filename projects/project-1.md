@@ -22,27 +22,7 @@ For this project, you will select an appropriate topic (a list is below) and cre
 
 Here is an illustration of the file structure you should use:  
 
-<img src="_images/Project1Structure2019-235.png" alt="Project 1 File Structure" width="450">
-
-```
-	// working on this part, still //
-	
-	project1 <-- (be exact, lowercase, no spaces)
-		index.html (where the final version of your project 1 will live)
-		spec.html (your phase 1 will be at this location and should not be changed after submission)
-		doc.html (a behind-the-scenes page that explains various details about your project)
-		css (probably only two files here, one for phase 1, one for phase 2)
-			spec.css
-			final.css
-		media (all images, videos, fonts, etc present on your pages, including favicons if you make a custom one)
-			image1.jpg
-			image2.jpg
-			any files (convert to woff/woff2) that support the embedded fonts (if any) on your pages.
-		other.html (any other html pages... perhaps a few extra pages that give you "read more" info about a subject)
-		src (for files that support your design but aren't actually referenced from the final version)
-			source.pdf
-			responsive.pdf
-```
+<img src="_images/project1-filestructure.png" alt="Project 1 File Structure" width="100%">
 
 ### FINAL Design Expectations:
 - Your page must ultimately have a pleasing layout and design that demonstrates:
