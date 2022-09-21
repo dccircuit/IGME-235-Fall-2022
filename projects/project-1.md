@@ -74,7 +74,7 @@ Web developers commonly work in a team with others such as Content Strategists, 
 1. Mirror (as closely as possible) the design of your chosen design/PDF through HTML & CSS.
 	1. Start by sketching (perhaps by drawing right over your starting image) where your grid lines are going to go.  If you can, save this sketch and include it in your documentation.
 	1. Build an HTML file (call it spec.html) that will work well with your sketched out plan... Add special sections, divs, figures, etc.  Whatever you need.  Think semantically as often as possible.  Include ids and classes that will work well with the style rules you need to write.
-    	- Don't copy the body text word for word, use "lorem ipsum" text where you have blocks of words to fill in. 
+    	- Don't copy the body text word for word, use ["lorem ipsum"](https://www.justinmind.com/blog/awesome-lorem-ipsum-alternatives/) text where you have blocks of words to fill in. 
   	1. Write the CSS (including, early on, the Grids and Flexbox containers that you'll need).  Make sure to get sizes on your images quickly, too.
     	- You don't need to use the exact images from your design, but similar ones would be best.  Do your best to select a similar font, color scheme, and matching layout.
 1. Create a Documentation page and include as much of the information listed in the "Documentation Requirements" section below as you can.
