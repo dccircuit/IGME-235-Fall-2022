@@ -68,7 +68,8 @@ Web developers commonly work in a team with others such as Content Strategists, 
 #### What to do:
 1. Select one of these pre-chosen page layouts:  
 <a href="_images/subaru.pdf"><img width="20%" alt="Subaru Drive Magazine Page" src="_images/subaru.png"></a> <a href="_images/aliens.pdf"><img width="20%" alt="Conspiracy Book Page" src="_images/aliens.png"></a> <a href="_images/athletics.pdf"><img width="20%" alt="RIT Magazine Page" src="_images/athletics.png"></a> <a href="_images/intel.pdf"><img width="20%" alt="Intel Poster (Challenging!)" src="_images/intel.png"></a>
-	- or submit your own pdf as part of your proposal (See tips below about what's "challenging" enough).
+	- or submit your own pdf as part of your proposal (See [tips below about what's "challenging" enough](#whats-challenging-enough-for-a-phase-1-layout)).
+	- A Slack Channel specifically for extra Project 1 questions & guidance (and maybe some additional "pre-chosen" layouts) can be found in the course Slack workspace. Look for the channel named #project-1
 1. Mirror (as closely as possible) the design of your chosen design/PDF through HTML & CSS.
 	1. Start by sketching (perhaps by drawing right over your starting image) where your grid lines are going to go.  If you can, save this sketch and include it in your documentation.
 	1. Build an HTML file (call it spec.html) that will work well with your sketched out plan... Add special sections, divs, figures, etc.  Whatever you need.  Think semantically as often as possible.  Include ids and classes that will work well with the style rules you need to write.
