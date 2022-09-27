@@ -144,7 +144,7 @@ and
 Add the following media query after your other ".menu li" rule:
 
 ```
-@media (max-width: 550px) {
+@media screen and (max-width: 550px) {
 	.menu li {
 		width: 100%;
 	}
