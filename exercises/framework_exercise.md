@@ -14,7 +14,7 @@ Start by downloading the starter file located here: [Frameworks Starter Files](c
 
 ## Part Two - Bootstrap
 
-1. Open a new browser window or tab, and go to https://getbootstrap.com/, click the “**Get started**” button on the page. We will be doing the **Quick Start**, and using a *CDN (Content Delivery Network)* and not downloading the framework locally. 
+1. Open a new browser window or tab, and go to https://getbootstrap.com/, click the “**Read the docs**” button on the page. We will be doing the **Quick Start**, and using a *CDN (Content Delivery Network)* and not downloading the framework locally. 
 
 2. Back in VS Code, make a copy of the **default-start.html** file and rename to **bootstrap.html**, and open this file. 
 
