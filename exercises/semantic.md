@@ -28,7 +28,7 @@ The is the last lab exercise for this week.  Finish strong!  Don't forget to ask
     - Mark an acronym so that it's meaning appears on hover.  (Did you know that Namco stands for "Nakamura Manufacturing Company"?)
     - Add more line breaks.
 
-1. Important: Add a `<div>` with an `id` attribute around the "source" info at the very bottom of the page.
+1. Important: Did you add a `<footer>` around the source info at the bottom? Great!  If not, either do that now or add a `<div>` around it and then add an `id` attribute to that tag with any unique value of your choosing.
     - We won't apply any styling to it just yet, we're just making it so that we can links to it in next week's lab exercises.
 
 
